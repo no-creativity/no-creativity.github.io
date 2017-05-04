@@ -4,6 +4,8 @@
 
 This organization reinvents wheels, and makes them better maybe.
 
+It is a playground of a code monkey, before other monkeys joining.
+
 ## Projects
 
 - [AnVerGen]
