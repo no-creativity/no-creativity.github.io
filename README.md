@@ -1,15 +1,16 @@
-# no-creativity.github.io
+# Welcome to No-Creativity
 
-The website of the GitHub organization no-creativity.
+## Principle
 
-## License
+This organization reinvents wheels, and makes them better maybe.
 
-This project is under the term of [UNLICENSE](http://unlicense.org).
+## Projects
 
-> THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-> EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-> MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-> IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
-> OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
-> ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
-> OTHER DEALINGS IN THE SOFTWARE.
+- [AnVerGen]
+    An automatic version generator for Android applications.
+- [ALog]
+    A Log wrapper for Android applications.
+
+[no-creativity]:http://no-creativity.org/
+[AnVerGen]:http://no-creativity.org/AnVerGen/
+[ALog]:http://no-creativity.org/ALog/
